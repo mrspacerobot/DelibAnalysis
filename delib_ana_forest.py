@@ -88,7 +88,8 @@ def f_class_predict(data, indic, combo_vec, f_classifier):
     test_inidicator_feats = get_feats(data, combo_vec)
 
     labels = f_classifier.predict(test_inidicator_feats)
-    labelled = data.drop(columns=['Unnamed: 0'])
+    #labelled = data.drop(columns=['Unnamed: 0'])
+    labelled = data
     labelled[indic] = labels
 
     return labelled

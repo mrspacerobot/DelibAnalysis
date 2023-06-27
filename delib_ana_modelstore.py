@@ -18,7 +18,7 @@ Contact: eleonore.fournier-tombs@mail.mcgill.ca
 """
 
 import pickle
-from sklearn.externals import joblib
+import joblib
 from delib_ana_utils import curr_dte_txt
 
 # TODO: add checks for file overwriting
@@ -51,8 +51,10 @@ def pickling(model, vectorizer, indic, train_data=None, tag='', name='',
     else:
         outfile = curr_dte_txt(1) + suffix
 
+    '''
     if tag:
         outfile = tag + '-' + outfile
+    '''
 
     data_dict = {'model': model, 'vectorizer': vectorizer,
                  'training': train_data}

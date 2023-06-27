@@ -23,7 +23,7 @@ from nltk import word_tokenize, pos_tag
 
 # List of indicators that classifier can be trained on
 INDICATORS = [
-    'narrative', 'question', 'response', 'advocacy', 'public_interest',
+    'narrative', 'question', 'response', 'advocacy', 'public_interest', 'disrespect',
     'respect', 'explanation', 'causal_reasoning', 'narrative', 'advocacy',
     'counterarguments', 'constructive_proposal'
 ]
@@ -298,8 +298,8 @@ def import_label_data(file_loc):
     label_data["has_question"] = label_data["speech"].apply(get_question)
     label_data["has_respect"] = label_data["speech"].apply(get_respect)
     label_data["pos"] = label_data["speech"].apply(pos_tokenizer)
-    label_data["interruption"] = label_data["interruption"].apply(
-        lambda x: change_to_binary(x))
+    #label_data["interruption"] = label_data["interruption"].apply(
+        #lambda x: change_to_binary(x))
     label_data["disrespect"] = label_data["disrespect"].apply(
         lambda x: change_to_binary(x))
     label_data["has_question_parent"] = add_column_parent(
@@ -343,7 +343,6 @@ def add_to_list(*items):
     Returns:
         list -- Each paramter is an item the list.
     """
-
     lst = []
     for item in items:
         lst.append(item)
