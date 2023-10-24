@@ -1,0 +1,14 @@
+Results for public_interest
+Predicted   0
+Actual       
+0.0        24
+1.0         4
+*Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.86      1.00      0.92        24
+         1.0       0.00      0.00      0.00         4
+
+    accuracy                           0.86        28
+   macro avg       0.43      0.50      0.46        28
+weighted avg       0.73      0.86      0.79        28

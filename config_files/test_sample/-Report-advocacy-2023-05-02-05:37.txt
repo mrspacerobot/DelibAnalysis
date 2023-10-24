@@ -1,0 +1,14 @@
+Results for advocacy
+Predicted   0  1
+Actual          
+0.0         8  1
+1.0        12  7
+*Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.40      0.89      0.55         9
+         1.0       0.88      0.37      0.52        19
+
+    accuracy                           0.54        28
+   macro avg       0.64      0.63      0.54        28
+weighted avg       0.72      0.54      0.53        28

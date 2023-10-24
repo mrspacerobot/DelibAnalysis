@@ -1,0 +1,14 @@
+Results for disrespect
+Predicted   0
+Actual       
+0          26
+1           2
+*Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.93      1.00      0.96        26
+           1       0.00      0.00      0.00         2
+
+    accuracy                           0.93        28
+   macro avg       0.46      0.50      0.48        28
+weighted avg       0.86      0.93      0.89        28

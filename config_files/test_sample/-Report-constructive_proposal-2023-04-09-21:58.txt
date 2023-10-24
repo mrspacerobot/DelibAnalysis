@@ -1,0 +1,14 @@
+Results for constructive_proposal
+Predicted  0   1
+Actual          
+0.0        0  21
+1.0        1   6
+*Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00        21
+         1.0       0.22      0.86      0.35         7
+
+    accuracy                           0.21        28
+   macro avg       0.11      0.43      0.18        28
+weighted avg       0.06      0.21      0.09        28

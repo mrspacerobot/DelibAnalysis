@@ -1,0 +1,1001 @@
+,Feature name,Importance,Feature class
+1,you mean,0.014986806960928687,tfidf 2-ngram
+2,cheddar,0.013929353420336693,tfidf word
+3,your fridge,0.013403885692814725,tfidf 2-ngram
+4,your,0.011007146832422408,tfidf word
+5,of cheddar,0.009947784193112385,tfidf 2-ngram
+6,over,0.009047639158824401,tfidf word
+7,statements,0.00871192615310837,tfidf word
+8,wiki,0.008628473726911536,tfidf word
+9,you,0.007972490630936736,tfidf word
+10,context,0.007951466029134482,tfidf word
+11,either this,0.00780927465606217,tfidf 2-ngram
+12,if that,0.007249006243536635,tfidf 2-ngram
+13,that,0.007162739633722475,tfidf word
+14,stop,0.007073674314581304,tfidf word
+15,the piece,0.006778057973908624,tfidf 2-ngram
+16,equate,0.006766645019653651,tfidf word
+17,mess,0.006705640439337916,tfidf word
+18,but that,0.00655549501840996,tfidf 2-ngram
+19,very well,0.006466319455631657,tfidf 2-ngram
+20,he,0.006241541570924731,tfidf word
+21,agreement,0.006148813078117172,tfidf word
+22,one half,0.006121015332998897,tfidf 2-ngram
+23,piece of,0.005906273768086361,tfidf 2-ngram
+24,replaced,0.005601143642096782,tfidf word
+25,yourself,0.005600744525498278,tfidf word
+26,times,0.005571927702022226,tfidf word
+27,truth,0.005442517903428117,tfidf word
+28,actually,0.0052915586563234375,tfidf word
+29,much,0.005201284685797351,tfidf word
+30,coverage,0.005092451548439436,tfidf word
+31,of agreement,0.004971377100570267,tfidf 2-ngram
+32,simply,0.004959955340870943,tfidf word
+33,start in,0.004959792779139352,tfidf 2-ngram
+34,the constraints,0.0049408473671700755,tfidf 2-ngram
+35,my,0.0049402825470049915,tfidf word
+36,criteria,0.004893053966611033,tfidf word
+37,taht behaviour,0.004877388723737676,tfidf 2-ngram
+38,mean,0.004764688582569217,tfidf word
+39,cheddar in,0.004724753791504263,tfidf 2-ngram
+40,if,0.004702334144468489,tfidf word
+41,in,0.004610677896690076,pos single
+42,exists,0.0046029865983338815,tfidf word
+43,is so,0.004567587015261308,tfidf 2-ngram
+44,looking,0.004541838254586919,tfidf word
+45,char_count,0.004321557768507499,char_count
+46,three,0.0042965455988985156,tfidf word
+47,has_question,0.004223387407680885,has_question
+48,of,0.004215921958771698,tfidf word
+49,piece,0.004166787347983785,tfidf word
+50,valid concern,0.004140008726908363,tfidf 2-ngram
+51,or lack,0.004126523284806726,tfidf 2-ngram
+52,without which,0.004102483252218658,tfidf 2-ngram
+53,the,0.004085076060080791,tfidf word
+54,qualifications,0.004061477488085224,tfidf word
+55,may be,0.004028604490940339,tfidf 2-ngram
+56,making,0.003960492842135976,tfidf word
+57,definite,0.0038626569662251133,tfidf word
+58,consensus,0.0038148263008933336,tfidf word
+59,longer,0.0038018730905632057,tfidf word
+60,on the,0.0038001229663723246,tfidf 2-ngram
+61,the wmf,0.0037475120844882113,tfidf 2-ngram
+62,another,0.003689859891691809,tfidf word
+63,going to,0.003672830070524199,tfidf 2-ngram
+64,of response,0.0036685158441200605,tfidf 2-ngram
+65,have been,0.0035607345442480467,tfidf 2-ngram
+66,only one,0.0035434820588264443,tfidf 2-ngram
+67,of the,0.0034749391968934094,tfidf 2-ngram
+68,because it,0.0034578777054646358,tfidf 2-ngram
+69,qualifications to,0.0034430636180333455,tfidf 2-ngram
+70,separate concept,0.003390874769969626,tfidf 2-ngram
+71,in,0.003390352234962864,tfidf word
+72,your lack,0.0033669177862228573,tfidf 2-ngram
+73,lack,0.003339801993421238,tfidf word
+74,unsourced,0.003293369934923026,tfidf word
+75,stewards it,0.00326181778359936,tfidf 2-ngram
+76,small wikiversions,0.0032097602255942576,tfidf 2-ngram
+77,that very,0.003209324209380177,tfidf 2-ngram
+78,sense,0.0032039163755931926,tfidf word
+79,to the,0.0031769853639440266,tfidf 2-ngram
+80,not going,0.00316652966767245,tfidf 2-ngram
+81,with huge,0.0031569414167922282,tfidf 2-ngram
+82,see,0.003123996513541883,tfidf word
+83,core,0.003083893695123608,tfidf word
+84,wrote articles,0.00306887650053453,tfidf 2-ngram
+85,data exists,0.0030636711390890485,tfidf 2-ngram
+86,that only,0.0030583217950938043,tfidf 2-ngram
+87,ceased to,0.0030470655679757054,tfidf 2-ngram
+88,how do,0.0030211596182807797,tfidf 2-ngram
+89,unconnected statements,0.0030026009357519523,tfidf 2-ngram
+90,so,0.003001007982144249,tfidf word
+91,top,0.0030005529261650553,tfidf word
+92,removed,0.0029855092107990942,tfidf word
+93,yearly,0.002951986347098578,tfidf word
+94,is,0.0029451826204273733,tfidf word
+95,this,0.002936167062211379,tfidf word
+96,how,0.0029065249798044136,tfidf word
+97,wherefore,0.002901453773502135,tfidf word
+98,rl by,0.0028883896643458764,tfidf 2-ngram
+99,established,0.002876032151104036,tfidf word
+100,wikiversions,0.002873509159884112,tfidf word
+101,term use,0.002860970681106007,tfidf 2-ngram
+102,offtopic to,0.002859193551029539,tfidf 2-ngram
+103,claiming,0.002849606514933774,tfidf word
+104,going,0.002839363074078444,tfidf word
+105,sort this,0.0028312516186767512,tfidf 2-ngram
+106,she simply,0.002792188987671947,tfidf 2-ngram
+107,of conversation,0.0027910144097536395,tfidf 2-ngram
+108,constructively please,0.0027831279259398754,tfidf 2-ngram
+109,constraints that,0.0027782253351688008,tfidf 2-ngram
+110,two major,0.002774805529694213,tfidf 2-ngram
+111,we go,0.002765728299093765,tfidf 2-ngram
+112,half,0.0027555849068530212,tfidf word
+113,his,0.002747957046301016,tfidf word
+114,the yearly,0.0027457739136396556,tfidf 2-ngram
+115,and we,0.0027440583668719765,tfidf 2-ngram
+116,really,0.0026967840808423417,tfidf word
+117,tcnsv has,0.002679893648385037,tfidf 2-ngram
+118,either,0.0026683855594423545,tfidf word
+119,so that,0.002634622873587974,tfidf 2-ngram
+120,page,0.0026218090446203444,tfidf word
+121,were,0.0026034111756296848,tfidf word
+122,one,0.0025953969303576267,tfidf word
+123,unsourced and,0.002581418110355434,tfidf 2-ngram
+124,trouble,0.002581418110355434,tfidf word
+125,chance,0.002577575001087738,tfidf word
+126,yourself you,0.002562010696117335,tfidf 2-ngram
+127,coverage that,0.0025612338120562434,tfidf 2-ngram
+128,to clean,0.0025127437374745532,tfidf 2-ngram
+129,external,0.0024693401303188646,tfidf word
+130,know that,0.0024522434450617928,tfidf 2-ngram
+131,include,0.0024477264724340948,tfidf word
+132,new section,0.002428435178867127,tfidf 2-ngram
+133,doesn,0.002392080593351529,tfidf word
+134,into,0.0023830054375507136,tfidf word
+135,colleague already,0.0023728447961467074,tfidf 2-ngram
+136,we are,0.0023649804991642412,tfidf 2-ngram
+137,yes,0.002361825912663925,tfidf word
+138,people are,0.00235358906588997,tfidf 2-ngram
+139,responded not,0.00235308627408902,tfidf 2-ngram
+140,pickalittletalkalittle politrukki,0.002338841151662774,tfidf 2-ngram
+141,said that,0.00232559866372661,tfidf 2-ngram
+142,constraints can,0.0022940414420878695,tfidf 2-ngram
+143,she wasn,0.0022906440113374003,tfidf 2-ngram
+144,were english,0.0022887367048407335,tfidf 2-ngram
+145,senedd,0.002282609246517976,tfidf word
+146,ceased,0.0022641754494162193,tfidf word
+147,the community,0.0022618089450974705,tfidf 2-ngram
+148,specific case,0.0022602975849724282,tfidf 2-ngram
+149,request if,0.002251796468091138,tfidf 2-ngram
+150,that doesn,0.0022307772271585365,tfidf 2-ngram
+151,your hypothetical,0.002230777227158536,tfidf 2-ngram
+152,with staff,0.002206003186658343,tfidf 2-ngram
+153,by what,0.0021933663092783967,tfidf 2-ngram
+154,doesn change,0.002192369117334425,tfidf 2-ngram
+155,and in,0.0021665189703041097,tfidf 2-ngram
+156,really wherefore,0.002166156961942724,tfidf 2-ngram
+157,rgloucester,0.0021627949850643547,tfidf word
+158,truly runs,0.0021575297780055467,tfidf 2-ngram
+159,empower,0.002151643111460448,tfidf word
+160,no,0.002140197399967951,tfidf word
+161,regard to,0.0021250976676077614,tfidf 2-ngram
+162,that could,0.00212264625497688,tfidf 2-ngram
+163,telcomnassprven,0.0021226372401468322,tfidf word
+164,has,0.002120137978581062,tfidf word
+165,interests,0.0021051284245190345,tfidf word
+166,look,0.0021051284245190345,tfidf word
+167,concern about,0.002104958242109335,tfidf 2-ngram
+168,know,0.00209565931103126,tfidf word
+169,trash,0.0020904191592363524,tfidf word
+170,on,0.002077266584752961,tfidf word
+171,contribute,0.002050567014207173,tfidf word
+172,the large,0.002048395903601814,tfidf 2-ngram
+173,years ago,0.0020468269147793845,tfidf 2-ngram
+174,you know,0.0020433196632932984,tfidf 2-ngram
+175,number,0.0020375481213607822,tfidf word
+176,wherefore this,0.002033030692464885,tfidf 2-ngram
+177,with,0.0020243576717349065,tfidf word
+178,you might,0.0020206779952298857,tfidf 2-ngram
+179,no evidence,0.002015220674297612,tfidf 2-ngram
+180,the minimal,0.002013781746138663,tfidf 2-ngram
+181,what happening,0.0020067791023901816,tfidf 2-ngram
+182,you unfortunately,0.002006173730279842,tfidf 2-ngram
+183,equate international,0.001993018022302877,tfidf 2-ngram
+184,this request,0.001991707672735696,tfidf 2-ngram
+185,empower the,0.001965785308452602,tfidf 2-ngram
+186,of evidence,0.0019619139920690892,tfidf 2-ngram
+187,dealing with,0.0019597729283060317,tfidf 2-ngram
+188,can globally,0.0019571668987923545,tfidf 2-ngram
+189,support for,0.001955395156350909,tfidf 2-ngram
+190,response means,0.0019493190994117865,tfidf 2-ngram
+191,that interpretation,0.0019479672689437428,tfidf 2-ngram
+192,wikipedia,0.001943996734391691,tfidf word
+193,that senedd,0.0019392012320884895,tfidf 2-ngram
+194,common with,0.0019384270789572341,tfidf 2-ngram
+195,colleague,0.001921356357331212,tfidf word
+196,over nothing,0.0019189120608750462,tfidf 2-ngram
+197,community not,0.0019189120608750462,tfidf 2-ngram
+198,it,0.0019185632659645619,tfidf word
+199,wmf,0.001890233247579025,tfidf word
+200,long,0.0018796842566246585,tfidf word
+201,shows,0.0018528314115704735,tfidf word
+202,international coverage,0.0018525593922294778,tfidf 2-ngram
+203,english for,0.0018322847145977239,tfidf 2-ngram
+204,editors making,0.0018233183641974651,tfidf 2-ngram
+205,position than,0.0018228309393738362,tfidf 2-ngram
+206,concern,0.0018228309393738362,tfidf word
+207,re not,0.001800003951886055,tfidf 2-ngram
+208,politrukki we,0.0017912015386843596,tfidf 2-ngram
+209,part of,0.0017729628777523522,tfidf 2-ngram
+210,section how,0.001762918895286637,tfidf 2-ngram
+211,the name,0.001739136260043397,tfidf 2-ngram
+212,looking for,0.0017331264510009347,tfidf 2-ngram
+213,issue,0.0017142852692408758,tfidf word
+214,truth and,0.0017036657308997834,tfidf 2-ngram
+215,does not,0.0016918649278479878,tfidf 2-ngram
+216,tell,0.0016915642420837795,tfidf word
+217,powerful,0.0016906506472559712,tfidf word
+218,slogging through,0.0016799044440935834,tfidf 2-ngram
+219,english it,0.0016799044440935834,tfidf 2-ngram
+220,with claiming,0.0016763526379071142,tfidf 2-ngram
+221,created with,0.0016763526379071142,tfidf 2-ngram
+222,used the,0.001672394975767277,tfidf 2-ngram
+223,andy,0.0016569459845451459,tfidf word
+224,own agenda,0.0016492044420879013,tfidf 2-ngram
+225,do we,0.0016457620414735501,tfidf 2-ngram
+226,do with,0.0016356971731630917,tfidf 2-ngram
+227,accept,0.0016349535325565596,tfidf word
+228,which plenty,0.0016151966807424717,tfidf 2-ngram
+229,properties,0.0016007089514867528,tfidf word
+230,senedd cymru,0.0015999564533386312,tfidf 2-ngram
+231,please do,0.0015902082469261343,tfidf 2-ngram
+232,took,0.0015865836101836177,tfidf word
+233,wonderfully how,0.0015711671363433889,tfidf 2-ngram
+234,as,0.001568688020487144,tfidf word
+235,cases,0.001522600715416422,tfidf word
+236,down so,0.0015127330309780355,tfidf 2-ngram
+237,to,0.0015022064406731307,pos single
+238,discussion,0.0014910400389684638,tfidf word
+239,over on,0.0014910400389684638,tfidf 2-ngram
+240,well,0.001486994437950592,tfidf word
+241,that have,0.0014851931149959983,tfidf 2-ngram
+242,only,0.0014829897928166596,tfidf word
+243,case which,0.0014829897928166594,tfidf 2-ngram
+244,two,0.0014702110530122887,tfidf word
+245,cymru is,0.0014692908086654981,tfidf 2-ngram
+246,with regard,0.0014620761607417596,tfidf 2-ngram
+247,executive,0.0014528735762404093,tfidf word
+248,replaced by,0.0014526702090230685,tfidf 2-ngram
+249,that international,0.0014280435720821912,tfidf 2-ngram
+250,don assume,0.0013857064922281116,tfidf 2-ngram
+251,data,0.001385552788315005,tfidf word
+252,dealt with,0.0013733595100034995,tfidf 2-ngram
+253,part,0.001361435587851924,tfidf word
+254,tentative analysis,0.0013539448437716436,tfidf 2-ngram
+255,evidence,0.0013527966248695138,tfidf word
+256,contentless,0.0013432014445252122,tfidf word
+257,thought it,0.00133814083351323,tfidf 2-ngram
+258,you have,0.00133814083351323,tfidf 2-ngram
+259,powerful and,0.001326511207664583,tfidf 2-ngram
+260,the faqs,0.0013260922106243067,tfidf 2-ngram
+261,constraints,0.0013124690908650426,tfidf word
+262,getting,0.0013124690908650426,tfidf word
+263,over again,0.0013088909928310494,tfidf 2-ngram
+264,made,0.0013081640185540427,tfidf word
+265,global,0.0013056594961398003,tfidf word
+266,comment was,0.0013042734928383661,tfidf 2-ngram
+267,up details,0.0013042734928383661,tfidf 2-ngram
+268,out the,0.001304273492838366,tfidf 2-ngram
+269,something to,0.0013004290322776557,tfidf 2-ngram
+270,by abd,0.00129900685821141,tfidf 2-ngram
+271,steward can,0.001297615176493002,tfidf 2-ngram
+272,page and,0.0012924911412172657,tfidf 2-ngram
+273,section for,0.0012846530441409864,tfidf 2-ngram
+274,about,0.0012825217507396597,tfidf word
+275,potential external,0.0012768396532546844,tfidf 2-ngram
+276,to,0.0012709297917290893,tfidf word
+277,user pigsonthewing,0.0012701494683667266,tfidf 2-ngram
+278,using proxis,0.0012627841208229967,tfidf 2-ngram
+279,despite,0.001254862383069951,tfidf word
+280,of editors,0.001251032065893016,tfidf 2-ngram
+281,by this,0.001234252428296792,tfidf 2-ngram
+282,be,0.0012146209265872692,tfidf word
+283,the properties,0.0012119013469012033,tfidf 2-ngram
+284,ensure that,0.0012119013469012033,tfidf 2-ngram
+285,placement,0.0012119013469012031,tfidf word
+286,look at,0.0011972365662110606,tfidf 2-ngram
+287,on her,0.001189345234190662,tfidf 2-ngram
+288,to ones,0.0011879111497320866,tfidf 2-ngram
+289,sysops,0.0011848022583268406,tfidf word
+290,identifiers,0.0011815397927320134,tfidf word
+291,which you,0.0011735735951344977,tfidf 2-ngram
+292,exasperation,0.0011735735951344977,tfidf word
+293,talk,0.001164843963236618,tfidf word
+294,already,0.0011636595888125615,tfidf word
+295,talk page,0.0011636595888125615,tfidf 2-ngram
+296,than actually,0.0011630460547164964,tfidf 2-ngram
+297,has_question_parent,0.0011282387783315112,has_question_parent
+298,wikipedia if,0.0011277558443279058,tfidf 2-ngram
+299,all,0.0011206088690482827,tfidf word
+300,of unconnected,0.001118655244425176,tfidf 2-ngram
+301,very,0.001111627510831202,tfidf word
+302,english,0.0011108956161427523,tfidf word
+303,coltrane on,0.0011099670212063948,tfidf 2-ngram
+304,or used,0.0011099670212063948,tfidf 2-ngram
+305,wikis,0.0011099670212063948,tfidf word
+306,that will,0.0011070778857397638,tfidf 2-ngram
+307,surprise had,0.0011046962078972075,tfidf 2-ngram
+308,do,0.0011024082015336017,tfidf word
+309,an,0.00110163331244916,tfidf word
+310,purposes behind,0.0011002136547693141,tfidf 2-ngram
+311,of international,0.0010974739709981036,tfidf 2-ngram
+312,wrong,0.0010972877139144722,tfidf word
+313,of course,0.0010908789410032855,tfidf 2-ngram
+314,ones,0.0010867239898379303,tfidf word
+315,community works,0.001085075255127894,tfidf 2-ngram
+316,inclusion,0.001083330379479878,tfidf word
+317,make,0.001071046957235071,tfidf word
+318,ceb we,0.0010511863802176514,tfidf 2-ngram
+319,of readers,0.0010511863802176514,tfidf 2-ngram
+320,yourself to,0.0010473807833857943,tfidf 2-ngram
+321,proposed wording,0.0010302768404876208,tfidf 2-ngram
+322,that because,0.001022049810624835,tfidf 2-ngram
+323,just,0.001015605721927499,tfidf word
+324,but violate,0.001013628285889361,tfidf 2-ngram
+325,quality,0.0010117125296588408,tfidf word
+326,shows lack,0.00100596203973465,tfidf 2-ngram
+327,to migrate,0.0010044805235100895,tfidf 2-ngram
+328,at the,0.0010013615345404374,tfidf 2-ngram
+329,together wonderfully,0.0009993698688213835,tfidf 2-ngram
+330,pickalittletalkalittle,0.0009987096315131926,tfidf word
+331,action,0.0009856108554934387,tfidf word
+332,request,0.0009813833994997544,tfidf word
+333,on with,0.0009758828493074775,tfidf 2-ngram
+334,sysops wiki,0.0009758828493074774,tfidf 2-ngram
+335,term,0.0009692953868427425,tfidf word
+336,rfc,0.0009660577268642139,tfidf word
+337,your position,0.0009657208358988886,tfidf 2-ngram
+338,replaced all,0.0009653082752225838,tfidf 2-ngram
+339,to include,0.0009647135422078266,tfidf 2-ngram
+340,connect things,0.0009645385737957027,tfidf 2-ngram
+341,opinion with,0.0009521570225632412,tfidf 2-ngram
+342,not,0.0009496913332181617,tfidf word
+343,need for,0.0009491649464731845,tfidf 2-ngram
+344,so on,0.0009487105548309261,tfidf 2-ngram
+345,her,0.0009440771445289478,tfidf word
+346,violate guidelines,0.0009430955726939838,tfidf 2-ngram
+347,wrote,0.0009419791222055769,tfidf word
+348,and you,0.0009382512508719472,tfidf 2-ngram
+349,wikivercities purpose,0.0009366876171499268,tfidf 2-ngram
+350,unconnected,0.0009361032849581298,tfidf word
+351,the top,0.0009231518936172954,tfidf 2-ngram
+352,raising,0.0009231518936172954,tfidf word
+353,connect,0.0009231518936172954,tfidf word
+354,the engine,0.0009181374250632768,tfidf 2-ngram
+355,it just,0.0009148106054409726,tfidf 2-ngram
+356,that tcnsv,0.0009138084818091402,tfidf 2-ngram
+357,would make,0.0009015136662618505,tfidf 2-ngram
+358,since,0.0009003537484689833,tfidf word
+359,point,0.0008954237433756776,tfidf word
+360,the exasperation,0.0008934303591609257,tfidf 2-ngram
+361,that is,0.0008876372952359579,tfidf 2-ngram
+362,interests of,0.0008822050934126223,tfidf 2-ngram
+363,said,0.0008809595498476383,tfidf word
+364,chance and,0.0008707905735738339,tfidf 2-ngram
+365,damaging the,0.000865145347048879,tfidf 2-ngram
+366,were also,0.0008611621012296284,tfidf 2-ngram
+367,the placement,0.0008611621012296284,tfidf 2-ngram
+368,plenty,0.0008408560349119341,tfidf word
+369,banners,0.0008372468450934269,tfidf word
+370,of data,0.0008320032240587774,tfidf 2-ngram
+371,name of,0.0008287268588259947,tfidf 2-ngram
+372,others responded,0.0008240411361596988,tfidf 2-ngram
+373,well be,0.000821345804591684,tfidf 2-ngram
+374,re,0.0008200604466170979,tfidf word
+375,offtopic,0.0008154498608078969,tfidf word
+376,create,0.0008131326353453865,tfidf word
+377,of long,0.0008017596269916352,tfidf 2-ngram
+378,right but,0.0008010128768758329,tfidf 2-ngram
+379,which indeed,0.0007995075775080273,tfidf 2-ngram
+380,you would,0.0007989744786712463,tfidf 2-ngram
+381,sound,0.000795297999114807,tfidf word
+382,point out,0.000795297999114807,tfidf 2-ngram
+383,other,0.0007944792944254777,tfidf word
+384,that just,0.0007802704855943149,tfidf 2-ngram
+385,without,0.0007702554375700535,tfidf word
+386,should,0.000768636202356641,tfidf word
+387,does,0.0007499396476177443,tfidf word
+388,that most,0.00074564648964536,tfidf 2-ngram
+389,could be,0.0007351134333379629,tfidf 2-ngram
+390,way,0.0007332931293737742,tfidf word
+391,wiki jurgennl,0.0007332294743947577,tfidf 2-ngram
+392,requested,0.0007324625453837206,tfidf word
+393,maybe,0.0007310700974453063,tfidf word
+394,to go,0.0007303064565228558,tfidf 2-ngram
+395,by yourself,0.0007297615290706488,tfidf 2-ngram
+396,the wikis,0.0007275324604855655,tfidf 2-ngram
+397,has long,0.0007212726261105651,tfidf 2-ngram
+398,proposed,0.0007201207200790055,tfidf word
+399,it is,0.0007199687304458332,tfidf 2-ngram
+400,would,0.0006943264573340809,tfidf word
+401,statements good,0.0006906913384605122,tfidf 2-ngram
+402,need,0.0006779054439765189,tfidf word
+403,only indicates,0.0006693503972599204,tfidf 2-ngram
+404,out,0.0006591344455377717,tfidf word
+405,the creation,0.000658041410583498,tfidf 2-ngram
+406,exists for,0.0006530563208238947,tfidf 2-ngram
+407,and,0.0006496947673039397,tfidf word
+408,probably,0.0006491773946317948,tfidf word
+409,times does,0.0006426782527204617,tfidf 2-ngram
+410,less,0.0006406580453282742,tfidf word
+411,was,0.0006378180144140901,tfidf word
+412,contentless stubs,0.0006296296149849549,tfidf 2-ngram
+413,the formal,0.0006264303567515571,tfidf 2-ngram
+414,you don,0.0006260666334909546,tfidf 2-ngram
+415,while,0.0006113352227749314,tfidf word
+416,might,0.0005915875613378546,tfidf word
+417,concept,0.000568234551254807,tfidf word
+418,to start,0.000568234551254807,tfidf 2-ngram
+419,message,0.0005682345512548069,tfidf word
+420,the talk,0.0005682345512548069,tfidf 2-ngram
+421,appoint,0.0005650212242326972,tfidf word
+422,but,0.0005539808612832109,tfidf word
+423,editors,0.0005357239142882203,tfidf word
+424,the sitelink,0.0005324401248662854,tfidf 2-ngram
+425,using donated,0.0005307440662249782,tfidf 2-ngram
+426,oppose not,0.0005307440662249782,tfidf 2-ngram
+427,from,0.0005257515007938991,tfidf word
+428,puzzlement at,0.0005182806109353522,tfidf 2-ngram
+429,to do,0.0005026968758748147,tfidf 2-ngram
+430,experience,0.000502219007893118,tfidf word
+431,the basis,0.0005022190078931178,tfidf 2-ngram
+432,welsh,0.00048226928689785136,tfidf word
+433,question don,0.0004808096040221807,tfidf 2-ngram
+434,to automatically,0.0004763531570841096,tfidf 2-ngram
+435,enough,0.000472058324555324,tfidf word
+436,oppose,0.00046597972656192807,tfidf word
+437,means,0.00046364575801280015,tfidf word
+438,always,0.0004539603115643639,tfidf word
+439,within,0.00044381864761797895,tfidf word
+440,trouble fuss,0.00044381864761797895,tfidf 2-ngram
+441,not need,0.00044381864761797895,tfidf 2-ngram
+442,order,0.00044381864761797895,tfidf word
+443,your behavior,0.0004435337677524847,tfidf 2-ngram
+444,causing,0.00044270547183522204,tfidf word
+445,even,0.00044270547183522204,tfidf word
+446,used in,0.0004343850572167645,tfidf 2-ngram
+447,sites but,0.0004343850572167645,tfidf 2-ngram
+448,doubled information,0.00043105603898930097,tfidf 2-ngram
+449,usually,0.0004233499399762021,tfidf word
+450,detail,0.0004142792719289296,tfidf word
+451,open,0.0004125283161715758,tfidf word
+452,for,0.0003977930054970976,tfidf word
+453,understand that,0.0003921775655581937,tfidf 2-ngram
+454,often,0.000386542190523678,tfidf word
+455,articles,0.00037889861751557076,tfidf word
+456,done because,0.00035700043258003,tfidf 2-ngram
+457,wiki experience,0.00035291861771976095,tfidf 2-ngram
+458,definite article,0.0003468117007945375,tfidf 2-ngram
+459,which,0.00033403163469641753,tfidf word
+460,creators,0.00033041803500465,tfidf word
+461,if not,0.000302911605853287,tfidf 2-ngram
+462,notification,0.000298148340498014,tfidf word
+463,condition,0.000298148340498014,tfidf word
+464,problems with,0.0002955941224820825,tfidf 2-ngram
+465,given,0.0002917958686852149,tfidf word
+466,used lifesitenews,0.00029052013713634124,tfidf 2-ngram
+467,tveksam think,0.00027630207246102657,tfidf 2-ngram
+468,position you,0.00027630207246102657,tfidf 2-ngram
+469,these,0.00025913848617402694,tfidf word
+470,in the,0.0002529227332998379,tfidf 2-ngram
+471,decision to,0.0002500504950637589,tfidf 2-ngram
+472,problems,0.00024794876436856595,tfidf word
+473,some,0.00024161899478093856,tfidf word
+474,article,0.0002290302093227633,tfidf word
+475,to sort,0.00022698537159419714,tfidf 2-ngram
+476,pulling out,0.00021757099460814825,tfidf 2-ngram
+477,our english,0.00020877978705327718,tfidf 2-ngram
+478,carefully enough,0.00020517413397340805,tfidf 2-ngram
+479,user,0.0001989998560084997,tfidf word
+480,semantic,0.00019079164754424506,tfidf word
+481,regular basis,0.00018967765410090145,tfidf 2-ngram
+482,previous,0.0001894926436769262,tfidf word
+483,are,0.00018278391168433507,tfidf word
+484,would support,0.0001816040332582357,tfidf 2-ngram
+485,they,0.00016741939627926334,tfidf word
+486,for the,0.00016122313515155764,tfidf 2-ngram
+487,we,0.0001552648672134957,tfidf word
+488,talk to,0.00015506093242697238,tfidf 2-ngram
+489,form,0.0001547536903737747,tfidf word
+490,specific,0.00015378432896918492,tfidf word
+491,support,0.00015336219902484843,tfidf word
+492,quentin,0.00015080576025762089,tfidf word
+493,at,0.0001481845495790261,tfidf word
+494,to engage,0.00014779706124104118,tfidf 2-ngram
+495,of better,0.00014535549621300334,tfidf 2-ngram
+496,up they,0.00014394203624479515,tfidf 2-ngram
+497,say,0.0001340467783018357,tfidf word
+498,proposal,0.00012775833644452632,tfidf word
+499,or,0.00012704942309860564,tfidf word
+500,case,0.00012541636000918763,tfidf word
+501,then maybe,0.00012449277892563607,tfidf 2-ngram
+502,there,0.00012433659117338508,tfidf word
+503,pages,0.00011489140284959283,tfidf word
+504,editors to,9.920947544426236e-05,tfidf 2-ngram
+505,like,9.652502991833525e-05,tfidf word
+506,this incident,9.379032103353703e-05,tfidf 2-ngram
+507,clearly,9.134379354311395e-05,tfidf word
+508,utc,8.905768670546987e-05,tfidf word
+509,per,8.883473211151422e-05,tfidf word
+510,removal,8.681516300292937e-05,tfidf word
+511,switch,8.60155074619828e-05,tfidf word
+512,do these,8.555626165132394e-05,tfidf 2-ngram
+513,it seems,8.476579322640914e-05,tfidf 2-ngram
+514,rather agree,8.089215679682728e-05,tfidf 2-ngram
+515,remove this,8.078104517793019e-05,tfidf 2-ngram
+516,have,7.999145051188322e-05,tfidf word
+517,reason,7.996367654885247e-05,tfidf word
+518,property,7.781214994162989e-05,tfidf word
+519,supressredirect since,7.576880613167177e-05,tfidf 2-ngram
+520,response ll,7.422716650607026e-05,tfidf 2-ngram
+521,to be,7.415721041144349e-05,tfidf 2-ngram
+522,source,7.146472673552804e-05,tfidf word
+523,english speaking,7.09646549433125e-05,tfidf 2-ngram
+524,there is,7.043586867532927e-05,tfidf 2-ngram
+525,can,6.992750106100989e-05,tfidf word
+526,bot,6.973688667618538e-05,tfidf word
+527,more,6.836545558465983e-05,tfidf word
+528,recieved and,6.779395970068168e-05,tfidf 2-ngram
+529,split,6.587162931555496e-05,tfidf word
+530,origin,6.413664118864859e-05,tfidf word
+531,also,6.270790707584623e-05,tfidf word
+532,them,6.210778823924535e-05,tfidf word
+533,up,6.129089647456654e-05,tfidf word
+534,although,6.107299380549142e-05,tfidf word
+535,comment look,5.295738436289675e-05,tfidf 2-ngram
+536,using,5.2679882846663506e-05,tfidf word
+537,crime statistics,5.16567550695396e-05,tfidf 2-ngram
+538,first,5.0695579404939265e-05,tfidf word
+539,able,5.033282969103068e-05,tfidf word
+540,new,4.947074974512358e-05,tfidf word
+541,would be,4.869907239372994e-05,tfidf 2-ngram
+542,can somebody,4.753823599832954e-05,tfidf 2-ngram
+543,could,4.527469116700211e-05,tfidf word
+544,possible,4.517735892819881e-05,tfidf word
+545,one of,4.506599009679954e-05,tfidf 2-ngram
+546,oppose per,4.496637257842411e-05,tfidf 2-ngram
+547,people,4.387862040256281e-05,tfidf word
+548,isn,4.373190286858444e-05,tfidf word
+549,for your,4.373190286858444e-05,tfidf 2-ngram
+550,example,4.303600917721218e-05,tfidf word
+551,the process,4.278955237789701e-05,tfidf 2-ngram
+552,linked,4.274137042117403e-05,tfidf word
+553,item,4.2699927290678365e-05,tfidf word
+554,remove,4.1838181863087423e-05,tfidf word
+555,think,4.0785067251571957e-05,tfidf word
+556,by,3.935122376220917e-05,tfidf word
+557,actual,3.8174263016213224e-05,tfidf word
+558,andy mabbett,3.773971227836927e-05,tfidf 2-ngram
+559,this is,3.707007364200648e-05,tfidf 2-ngram
+560,end,3.6881545278014664e-05,tfidf word
+561,the new,3.662081274776087e-05,tfidf 2-ngram
+562,when,3.6315506794033186e-05,tfidf word
+563,such,3.560906152451895e-05,tfidf word
+564,so called,3.54807572449176e-05,tfidf 2-ngram
+565,inactivity,3.523455102737566e-05,tfidf word
+566,how the,3.3532184290374495e-05,tfidf 2-ngram
+567,comment,3.287170577550522e-05,tfidf word
+568,through the,3.1669502193330924e-05,tfidf 2-ngram
+569,better,3.1161606417078427e-05,tfidf word
+570,consistent,2.9750818224682576e-05,tfidf word
+571,prefer to,2.933389638002205e-05,tfidf 2-ngram
+572,bureaucrat,2.9023960013068962e-05,tfidf word
+573,don,2.901829732110098e-05,tfidf word
+574,any,2.638030766543698e-05,tfidf word
+575,that mean,2.530278976718169e-05,tfidf 2-ngram
+576,wikidata,2.5116233850497348e-05,tfidf word
+577,vote,2.5116139763014816e-05,tfidf word
+578,voter can,2.505755932819929e-05,tfidf 2-ngram
+579,will,2.46911500353263e-05,tfidf word
+580,list,2.463280458101812e-05,tfidf word
+581,some of,2.417830990740941e-05,tfidf 2-ngram
+582,third,2.414251137673769e-05,tfidf word
+583,me,2.408714687696934e-05,tfidf word
+584,these three,2.4080609901241984e-05,tfidf 2-ngram
+585,the time,2.4023579983817575e-05,tfidf 2-ngram
+586,with nil,2.39368431565126e-05,tfidf 2-ngram
+587,think the,2.3569358303262393e-05,tfidf 2-ngram
+588,activity,2.356935830326239e-05,tfidf word
+589,significant,2.252786217090043e-05,tfidf word
+590,up hoped,2.248671813018098e-05,tfidf 2-ngram
+591,opinion,2.193683196669484e-05,tfidf word
+592,that he,2.1580291543983786e-05,tfidf 2-ngram
+593,never,2.1459959411597964e-05,tfidf word
+594,to former,2.099154037789028e-05,tfidf 2-ngram
+595,clear,1.949762938279264e-05,tfidf word
+596,russian speaker,1.8843080380114164e-05,tfidf 2-ngram
+597,that the,1.8838242306745003e-05,tfidf 2-ngram
+598,don see,1.8020671855513356e-05,tfidf 2-ngram
+599,process this,1.7804458617637974e-05,tfidf 2-ngram
+600,enough to,1.7795131641999447e-05,tfidf 2-ngram
+601,what someone,1.7791056964329917e-05,tfidf 2-ngram
+602,these pages,1.718076390148371e-05,tfidf 2-ngram
+603,by the,1.6854191465163445e-05,tfidf 2-ngram
+604,both,1.598132993109538e-05,tfidf word
+605,the case,1.5769550691604345e-05,tfidf 2-ngram
+606,development using,1.535309210061546e-05,tfidf 2-ngram
+607,support mauerquadrant,1.513014962861952e-05,tfidf 2-ngram
+608,is that,1.264122771640242e-05,tfidf 2-ngram
+609,then,1.1786996283186389e-05,tfidf word
+610,is to,1.1170751938254022e-05,tfidf 2-ngram
+611,restricting it,1.1089663796313306e-05,tfidf 2-ngram
+612,therefore outside,1.0974434199598953e-05,tfidf 2-ngram
+613,make it,1.0232694805126817e-05,tfidf 2-ngram
+614,property creators,8.0142982602355e-06,tfidf 2-ngram
+615,are actually,7.910666799285899e-06,tfidf 2-ngram
+616,redress,0.0,tfidf word
+617,bit,0.0,tfidf word
+618,remove the,0.0,tfidf 2-ngram
+619,referring to,0.0,tfidf 2-ngram
+620,referring,0.0,tfidf word
+621,referenced in,0.0,tfidf 2-ngram
+622,remove on,0.0,tfidf 2-ngram
+623,remove all,0.0,tfidf 2-ngram
+624,binding,0.0,tfidf word
+625,between,0.0,tfidf word
+626,regarding,0.0,tfidf word
+627,reflects,0.0,tfidf word
+628,redirects articles,0.0,tfidf 2-ngram
+629,recursively directories,0.0,tfidf 2-ngram
+630,removal was,0.0,tfidf 2-ngram
+631,referenced,0.0,tfidf word
+632,removal if,0.0,tfidf 2-ngram
+633,regardless,0.0,tfidf word
+634,behind,0.0,tfidf word
+635,redress it,0.0,tfidf 2-ngram
+636,reduces,0.0,tfidf word
+637,replacement,0.0,tfidf word
+638,redirect,0.0,tfidf word
+639,being,0.0,tfidf word
+640,regarding few,0.0,tfidf 2-ngram
+641,behaviour,0.0,tfidf word
+642,reflects on,0.0,tfidf 2-ngram
+643,recursively,0.0,tfidf word
+644,reorganisation of,0.0,tfidf 2-ngram
+645,red,0.0,tfidf word
+646,redirect should,0.0,tfidf 2-ngram
+647,reorganisation,0.0,tfidf word
+648,repeated,0.0,tfidf word
+649,repeated in,0.0,tfidf 2-ngram
+650,reform,0.0,tfidf word
+651,replace,0.0,tfidf word
+652,reform is,0.0,tfidf 2-ngram
+653,record of,0.0,tfidf 2-ngram
+654,replace feel,0.0,tfidf 2-ngram
+655,before,0.0,tfidf word
+656,regard and,0.0,tfidf 2-ngram
+657,been,0.0,tfidf word
+658,reduces to,0.0,tfidf 2-ngram
+659,removing the,0.0,tfidf 2-ngram
+660,reform won,0.0,tfidf 2-ngram
+661,removing,0.0,tfidf word
+662,because the,0.0,tfidf 2-ngram
+663,removed some,0.0,tfidf 2-ngram
+664,removed his,0.0,tfidf 2-ngram
+665,redirects,0.0,tfidf word
+666,regard,0.0,tfidf word
+667,removed for,0.0,tfidf 2-ngram
+668,regardless of,0.0,tfidf 2-ngram
+669,relevance,0.0,tfidf word
+670,recruiting and,0.0,tfidf 2-ngram
+671,reliability,0.0,tfidf word
+672,reliable sources,0.0,tfidf 2-ngram
+673,recordings nor,0.0,tfidf 2-ngram
+674,rehnquist,0.0,tfidf word
+675,reliable by,0.0,tfidf 2-ngram
+676,reliable,0.0,tfidf word
+677,rehnquist court,0.0,tfidf 2-ngram
+678,reference whatever,0.0,tfidf 2-ngram
+679,reliability weigh,0.0,tfidf 2-ngram
+680,recoup the,0.0,tfidf 2-ngram
+681,recordings of,0.0,tfidf 2-ngram
+682,reliability rating,0.0,tfidf 2-ngram
+683,recoup,0.0,tfidf word
+684,reliability for,0.0,tfidf 2-ngram
+685,relevant to,0.0,tfidf 2-ngram
+686,regulations for,0.0,tfidf 2-ngram
+687,believe,0.0,tfidf word
+688,relevant other,0.0,tfidf 2-ngram
+689,records,0.0,tfidf word
+690,rejected,0.0,tfidf word
+691,rejected by,0.0,tfidf 2-ngram
+692,relevant here,0.0,tfidf 2-ngram
+693,relevant comments,0.0,tfidf 2-ngram
+694,ref unforunately,0.0,tfidf 2-ngram
+695,records to,0.0,tfidf 2-ngram
+696,best,0.0,tfidf word
+697,red tape,0.0,tfidf 2-ngram
+698,relevant,0.0,tfidf word
+699,ref,0.0,tfidf word
+700,redundant or,0.0,tfidf 2-ngram
+701,reference,0.0,tfidf word
+702,blp,0.0,tfidf word
+703,reductio ad,0.0,tfidf 2-ngram
+704,remarks about,0.0,tfidf 2-ngram
+705,reductio,0.0,tfidf word
+706,regards,0.0,tfidf word
+707,remarks,0.0,tfidf word
+708,relevance proof,0.0,tfidf 2-ngram
+709,registry,0.0,tfidf word
+710,remains,0.0,tfidf word
+711,registry or,0.0,tfidf 2-ngram
+712,regranting,0.0,tfidf word
+713,remaining neutral,0.0,tfidf 2-ngram
+714,recordings,0.0,tfidf word
+715,blog,0.0,tfidf word
+716,remaining,0.0,tfidf word
+717,regranting of,0.0,tfidf 2-ngram
+718,reliable think,0.0,tfidf 2-ngram
+719,regular,0.0,tfidf word
+720,redundant,0.0,tfidf word
+721,relying on,0.0,tfidf 2-ngram
+722,recordings exposing,0.0,tfidf 2-ngram
+723,recruiting,0.0,tfidf word
+724,relying,0.0,tfidf word
+725,regulation,0.0,tfidf word
+726,regulation etc,0.0,tfidf 2-ngram
+727,regulations,0.0,tfidf word
+728,rely on,0.0,tfidf 2-ngram
+729,rely,0.0,tfidf word
+730,books,0.0,tfidf word
+731,reliable with,0.0,tfidf 2-ngram
+732,remains an,0.0,tfidf 2-ngram
+733,code once,0.0,tfidf 2-ngram
+734,replacement of,0.0,tfidf 2-ngram
+735,runs the,0.0,tfidf 2-ngram
+736,rules,0.0,tfidf word
+737,rules and,0.0,tfidf 2-ngram
+738,rules for,0.0,tfidf 2-ngram
+739,rules proposed,0.0,tfidf 2-ngram
+740,run,0.0,tfidf word
+741,run across,0.0,tfidf 2-ngram
+742,run makes,0.0,tfidf 2-ngram
+743,background,0.0,tfidf word
+744,runs,0.0,tfidf word
+745,russia,0.0,tfidf word
+746,rule,0.0,tfidf word
+747,russia economy,0.0,tfidf 2-ngram
+748,russian,0.0,tfidf word
+749,russian invasion,0.0,tfidf 2-ngram
+750,back,0.0,tfidf word
+751,avoid,0.0,tfidf word
+752,said or,0.0,tfidf 2-ngram
+753,automatically,0.0,tfidf word
+754,salient,0.0,tfidf word
+755,salient when,0.0,tfidf 2-ngram
+756,rule coi,0.0,tfidf 2-ngram
+757,rsvp,0.0,tfidf word
+758,same concept,0.0,tfidf 2-ngram
+759,risk that,0.0,tfidf 2-ngram
+760,right that,0.0,tfidf 2-ngram
+761,right to,0.0,tfidf 2-ngram
+762,right wing,0.0,tfidf 2-ngram
+763,rights,0.0,tfidf word
+764,rights could,0.0,tfidf 2-ngram
+765,rightsholders,0.0,tfidf word
+766,rightsholders at,0.0,tfidf 2-ngram
+767,risk,0.0,tfidf word
+768,risk of,0.0,tfidf 2-ngram
+769,rl,0.0,tfidf word
+770,role has,0.0,tfidf 2-ngram
+771,background research,0.0,tfidf 2-ngram
+772,road,0.0,tfidf word
+773,robert,0.0,tfidf word
+774,robert cites,0.0,tfidf 2-ngram
+775,robert who,0.0,tfidf 2-ngram
+776,roberts,0.0,tfidf word
+777,roberts court,0.0,tfidf 2-ngram
+778,role,0.0,tfidf word
+779,role anonymous,0.0,tfidf 2-ngram
+780,same,0.0,tfidf word
+781,same for,0.0,tfidf 2-ngram
+782,reply,0.0,tfidf word
+783,scope so,0.0,tfidf 2-ngram
+784,says template,0.0,tfidf 2-ngram
+785,school,0.0,tfidf word
+786,school shooting,0.0,tfidf 2-ngram
+787,science,0.0,tfidf word
+788,science for,0.0,tfidf 2-ngram
+789,scientific,0.0,tfidf word
+790,scientific papers,0.0,tfidf 2-ngram
+791,scope,0.0,tfidf word
+792,scope of,0.0,tfidf 2-ngram
+793,scrambling,0.0,tfidf word
+794,says,0.0,tfidf word
+795,scrambling to,0.0,tfidf 2-ngram
+796,script,0.0,tfidf word
+797,authority,0.0,tfidf word
+798,script readtalk,0.0,tfidf 2-ngram
+799,seat,0.0,tfidf word
+800,seat but,0.0,tfidf 2-ngram
+801,second,0.0,tfidf word
+802,second attempt,0.0,tfidf 2-ngram
+803,second chances,0.0,tfidf 2-ngram
+804,says precisely,0.0,tfidf 2-ngram
+805,saying that,0.0,tfidf 2-ngram
+806,same infobox,0.0,tfidf 2-ngram
+807,san diego,0.0,tfidf 2-ngram
+808,same page,0.0,tfidf 2-ngram
+809,same paper,0.0,tfidf 2-ngram
+810,same probs,0.0,tfidf 2-ngram
+811,same so,0.0,tfidf 2-ngram
+812,same source,0.0,tfidf 2-ngram
+813,same topic,0.0,tfidf 2-ngram
+814,authors,0.0,tfidf word
+815,same users,0.0,tfidf 2-ngram
+816,san,0.0,tfidf word
+817,sanctions,0.0,tfidf word
+818,saying,0.0,tfidf word
+819,sanctions international,0.0,tfidf 2-ngram
+820,sanity,0.0,tfidf word
+821,sanity measure,0.0,tfidf 2-ngram
+822,sars,0.0,tfidf word
+823,sars as,0.0,tfidf 2-ngram
+824,sars whose,0.0,tfidf 2-ngram
+825,say creator,0.0,tfidf 2-ngram
+826,say oh,0.0,tfidf 2-ngram
+827,say that,0.0,tfidf 2-ngram
+828,right now,0.0,tfidf 2-ngram
+829,right idea,0.0,tfidf 2-ngram
+830,ban,0.0,tfidf word
+831,resolution sportingflyer,0.0,tfidf 2-ngram
+832,requested or,0.0,tfidf 2-ngram
+833,requesting,0.0,tfidf word
+834,requesting restore,0.0,tfidf 2-ngram
+835,requests,0.0,tfidf word
+836,requests for,0.0,tfidf 2-ngram
+837,research,0.0,tfidf word
+838,research outside,0.0,tfidf 2-ngram
+839,research perhaps,0.0,tfidf 2-ngram
+840,resolution,0.0,tfidf word
+841,resolved,0.0,tfidf word
+842,be taken,0.0,tfidf 2-ngram
+843,resolved centrally,0.0,tfidf 2-ngram
+844,respect,0.0,tfidf word
+845,be made,0.0,tfidf 2-ngram
+846,be linked,0.0,tfidf 2-ngram
+847,respect to,0.0,tfidf 2-ngram
+848,respective,0.0,tfidf word
+849,respective authorities,0.0,tfidf 2-ngram
+850,respectively,0.0,tfidf word
+851,respectively over,0.0,tfidf 2-ngram
+852,be separated,0.0,tfidf 2-ngram
+853,request without,0.0,tfidf 2-ngram
+854,ban request,0.0,tfidf 2-ngram
+855,representative and,0.0,tfidf 2-ngram
+856,report,0.0,tfidf word
+857,report on,0.0,tfidf 2-ngram
+858,reported,0.0,tfidf word
+859,reported by,0.0,tfidf 2-ngram
+860,reporting,0.0,tfidf word
+861,reporting authority,0.0,tfidf 2-ngram
+862,reports,0.0,tfidf word
+863,reports on,0.0,tfidf 2-ngram
+864,representative,0.0,tfidf word
+865,representative comments,0.0,tfidf 2-ngram
+866,be the,0.0,tfidf 2-ngram
+867,reputation,0.0,tfidf word
+868,reputation and,0.0,tfidf 2-ngram
+869,because of,0.0,tfidf 2-ngram
+870,reputation of,0.0,tfidf 2-ngram
+871,because,0.0,tfidf word
+872,request best,0.0,tfidf 2-ngram
+873,request clearly,0.0,tfidf 2-ngram
+874,be used,0.0,tfidf 2-ngram
+875,request for,0.0,tfidf 2-ngram
+876,respond,0.0,tfidf word
+877,respond as,0.0,tfidf 2-ngram
+878,responded,0.0,tfidf word
+879,basis,0.0,tfidf word
+880,rfc anyway,0.0,tfidf 2-ngram
+881,rfc as,0.0,tfidf 2-ngram
+882,rfc you,0.0,tfidf 2-ngram
+883,rfcs,0.0,tfidf word
+884,rfcs little,0.0,tfidf 2-ngram
+885,rfd,0.0,tfidf word
+886,rfd and,0.0,tfidf 2-ngram
+887,bbc,0.0,tfidf word
+888,rfd page,0.0,tfidf 2-ngram
+889,based on,0.0,tfidf 2-ngram
+890,be hard,0.0,tfidf 2-ngram
+891,rfp,0.0,tfidf word
+892,rfp which,0.0,tfidf 2-ngram
+893,rgk,0.0,tfidf word
+894,rgk the,0.0,tfidf 2-ngram
+895,based,0.0,tfidf word
+896,ridiculousness,0.0,tfidf word
+897,ridiculousness with,0.0,tfidf 2-ngram
+898,right,0.0,tfidf word
+899,bans,0.0,tfidf word
+900,rfc and,0.0,tfidf 2-ngram
+901,be an,0.0,tfidf 2-ngram
+902,review will,0.0,tfidf 2-ngram
+903,review though,0.0,tfidf 2-ngram
+904,response,0.0,tfidf word
+905,response arguably,0.0,tfidf 2-ngram
+906,response it,0.0,tfidf 2-ngram
+907,be good,0.0,tfidf 2-ngram
+908,response to,0.0,tfidf 2-ngram
+909,responsible,0.0,tfidf word
+910,responsible for,0.0,tfidf 2-ngram
+911,restore,0.0,tfidf word
+912,restore is,0.0,tfidf 2-ngram
+913,restricting,0.0,tfidf word
+914,retaining,0.0,tfidf word
+915,retaining editors,0.0,tfidf 2-ngram
+916,retrieved,0.0,tfidf word
+917,retrieved bot,0.0,tfidf 2-ngram
+918,review,0.0,tfidf word
+919,review and,0.0,tfidf 2-ngram
+920,review procedure,0.0,tfidf 2-ngram
+921,be based,0.0,tfidf 2-ngram
+922,review process,0.0,tfidf 2-ngram
+923,resolved moderator,0.0,tfidf 2-ngram
+924,but also,0.0,tfidf 2-ngram
+925,record,0.0,tfidf word
+926,promise,0.0,tfidf word
+927,projects,0.0,tfidf word
+928,projects but,0.0,tfidf 2-ngram
+929,projects from,0.0,tfidf 2-ngram
+930,projects have,0.0,tfidf 2-ngram
+931,projects similar,0.0,tfidf 2-ngram
+932,projects so,0.0,tfidf 2-ngram
+933,projects some,0.0,tfidf 2-ngram
+934,projects that,0.0,tfidf 2-ngram
+935,prominent,0.0,tfidf word
+936,prominent banner,0.0,tfidf 2-ngram
+937,promise was,0.0,tfidf 2-ngram
+938,proposed guideline,0.0,tfidf 2-ngram
+939,promote,0.0,tfidf word
+940,promote holocaust,0.0,tfidf 2-ngram
+941,promote the,0.0,tfidf 2-ngram
+942,prone,0.0,tfidf word
+943,prone to,0.0,tfidf 2-ngram
+944,proof,0.0,tfidf word
+945,proof for,0.0,tfidf 2-ngram
+946,propaganda,0.0,tfidf word
+947,propaganda model,0.0,tfidf 2-ngram
+948,propaganda site,0.0,tfidf 2-ngram
+949,project to,0.0,tfidf 2-ngram
+950,project the,0.0,tfidf 2-ngram
+951,project pages,0.0,tfidf 2-ngram
+952,project is,0.0,tfidf 2-ngram
+953,produced and,0.0,tfidf 2-ngram
+954,producing,0.0,tfidf word
+955,producing such,0.0,tfidf 2-ngram
+956,producing undercover,0.0,tfidf 2-ngram
+957,productive,0.0,tfidf word
+958,productive environments,0.0,tfidf 2-ngram
+959,productive that,0.0,tfidf 2-ngram
+960,productive we,0.0,tfidf 2-ngram
+961,professed,0.0,tfidf word
+962,professed puzzlement,0.0,tfidf 2-ngram
+963,professional,0.0,tfidf word
+964,professional articles,0.0,tfidf 2-ngram
+965,profile,0.0,tfidf word
+966,profile treats,0.0,tfidf 2-ngram
+967,profit,0.0,tfidf word
+968,profit and,0.0,tfidf 2-ngram
+969,progressive,0.0,tfidf word
+970,progressive values,0.0,tfidf 2-ngram
+971,project,0.0,tfidf word
+972,project chat,0.0,tfidf 2-ngram
+973,project doesn,0.0,tfidf 2-ngram
+974,proper,0.0,tfidf word
+975,proper defense,0.0,tfidf 2-ngram
+976,proper knowledge,0.0,tfidf 2-ngram
+977,proposal and,0.0,tfidf 2-ngram
+978,proposal generic,0.0,tfidf 2-ngram
+979,proposal have,0.0,tfidf 2-ngram
+980,proposal like,0.0,tfidf 2-ngram
+981,proposal nor,0.0,tfidf 2-ngram
+982,proposal passes,0.0,tfidf 2-ngram
+983,proposal showing,0.0,tfidf 2-ngram
+984,proposal sister,0.0,tfidf 2-ngram
+985,proposal that,0.0,tfidf 2-ngram
+986,proposal to,0.0,tfidf 2-ngram
+987,proposal user,0.0,tfidf 2-ngram
+988,proposals,0.0,tfidf word
+989,proposals but,0.0,tfidf 2-ngram
+990,proposals for,0.0,tfidf 2-ngram
+991,proposals well,0.0,tfidf 2-ngram
+992,proposals with,0.0,tfidf 2-ngram
+993,propose,0.0,tfidf word
+994,propose new,0.0,tfidf 2-ngram
+995,propose something,0.0,tfidf 2-ngram
+996,propose that,0.0,tfidf 2-ngram
+997,california unusual,0.0,tfidf 2-ngram
+998,proposed activity,0.0,tfidf 2-ngram
+999,proposal for,0.0,tfidf 2-ngram
+1000,proposal against,0.0,tfidf 2-ngram
